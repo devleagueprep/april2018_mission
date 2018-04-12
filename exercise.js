@@ -94,6 +94,14 @@ Create a function named whatToEat that takes in a parameter budget. Create the f
 
 Console.log your result*/
 
+function whatToEat(budget){
+
+    if (budget <=5){ return "Eating at MICKEY D'S!!"}
+    if (budget <= 10){ return 'Panda Express'}
+    if (budget > 10){return 'We go Peppas'}
+}
+console.log(whatToEat(2));
+
 
 /*Mission 9:
 Team Member: Erik
