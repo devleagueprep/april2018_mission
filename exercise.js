@@ -96,7 +96,7 @@ Console.log your result*/
 
 
 /*Mission 9:
-Team Member: 
+Team Member: Erik
 
 @param Datatype: Array
 @return Datatype: Array
@@ -108,7 +108,7 @@ var numBox = [6, 24, 16, 2, 3];
 
 
 /*Mission 10:
-Team Member: 
+Team Member: Doug
 
 @param Datatype: Array
 @return Datatype: Array
