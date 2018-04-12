@@ -45,7 +45,10 @@ Create a function named evens that takes in a parameter arr and will sum up only
 Console.log your result.*/
 
 var evenArr = [1,2,3,4,5,6,7,8];
-
+function evens(arr){
+    for (var i = 0; i < evenArr.length; i++)
+}
+console.log(evens)
 
 /*Mission 5:
 Team Member: Cassandra
