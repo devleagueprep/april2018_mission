@@ -79,6 +79,12 @@ Team Member: Matt
 Create a function named kmConverter that takes in a parameter miles and will convert miles to kilometers and returns the new kilometer amount
 Console.log your result.*/
 
+function kmConverter(miles){
+    kilometers = 1.6*miles;
+    return kilometers;
+}
+
+console.log(kmConverter(3));
 
 /*Mission 8:
 Team Member: Chaz
