@@ -3,7 +3,7 @@
 This repo will self-destruct in five seconds. Good luck!*/
 
 /*Mission 1: 
-Team Member: 
+Team Member: Valzey
 
 @param Datatype: String
 @return Datatype: String
@@ -13,7 +13,7 @@ Console.log to see your result.*/
 
 
 /*Mission 2: 
-Team Member: 
+Team Member: Camille
 
 @param Datatype: String
 @param Datatype: Number
@@ -24,7 +24,7 @@ Console log to see your result.*/
 
 
 /*Mission 3: 
-Team Member: 
+Team Member: Sarah
 
 @param Datatype: Array
 @return Datatype: Array
@@ -36,7 +36,7 @@ var numArr = [1, 6, 8];
 
 
 /*Mission 4: 
-Team Member: 
+Team Member: Erin
 
 @param Datatype: Array
 @return Datatype: Array
@@ -48,7 +48,7 @@ var evenArr = [1,2,3,4,5,6,7,8];
 
 
 /*Mission 5:
-Team Member: 
+Team Member: Cassandra
 
 @param Datatype: Array
 @param Datatype: String
@@ -61,7 +61,7 @@ var favFoods = ['curry ramen', 'carrot cake', 'oreos', 'bacon cheese burger', 'c
 
 
 /*Mission 6:
-Team Member: 
+Team Member: Harsh
 
 @param Datatype: Number
 @return Datatype: Number
@@ -71,7 +71,7 @@ Console.log your result*/
 
 
 /*Mission 7:
-Team Member: 
+Team Member: Matt
 
 @param Datatype: Number
 @return Datatype: Number
@@ -81,7 +81,7 @@ Console.log your result.*/
 
 
 /*Mission 8:
-Team Member: 
+Team Member: Chaz
 
 @param Datatype: Number
 @return Datatype: String
