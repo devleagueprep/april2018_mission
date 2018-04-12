@@ -100,7 +100,7 @@ function whatToEat(budget){
     else if (budget <= 10){ return 'Panda Express'}
     else {return 'We go Peppas'}
 }
-console.log(whatToEat(2));
+console.log(whatToEat(34938));
 
 
 /*Mission 9:
