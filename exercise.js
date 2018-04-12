@@ -98,7 +98,7 @@ function whatToEat(budget){
 
     if (budget <=5){ return "Eating at MICKEY D'S!!"}
     else if (budget <= 10){ return 'Panda Express'}
-    else if (budget > 10){return 'We go Peppas'}
+    else {return 'We go Peppas'}
 }
 console.log(whatToEat(2));
 
