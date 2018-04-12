@@ -68,6 +68,7 @@ Team Member: Harsh
 
 Create a function named yenConverter that takes a parameter rate and will convert dollars to yen based on today's foreign exchange rate and returns the new yen amount.
 Console.log your result*/
+
 function yenConverter(rate) {
     return (rate * .94)
 }
