@@ -19,9 +19,13 @@ Team Member: Camille
 @param Datatype: Number
 @return Datatype: String
 
+function weatherReport(" ", ){
+    return 
+    console.log("Today's forecast is weather.")
+}
 var x = ("");
 var x = 5
-
+return 
 
 Create a function named happyBday that takes two parameters name and age and returns the following: "Happy Birthday name! You look awesome at age!" Where your input will replace the name and age parameters.
 Console log to see your result.*/
