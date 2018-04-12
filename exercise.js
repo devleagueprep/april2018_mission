@@ -34,13 +34,14 @@ Console.log your result.*/
 
 var numArr = [1, 6, 8];
 
+/*
 function doubleUp (arr) {
     for (var i = 0; i < arr.length; i++) {
-        arr[i]*2; 
     }
-    return arr;
+    return arr[i]*2;
 }
 console.log(doubleUp(numArr))
+*/
 
 /*Mission 4: 
 Team Member: Erin
