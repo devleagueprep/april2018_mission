@@ -97,8 +97,8 @@ Console.log your result*/
 function whatToEat(budget){
 
     if (budget <=5){ return "Eating at MICKEY D'S!!"}
-    if (budget <= 10){ return 'Panda Express'}
-    if (budget > 10){return 'We go Peppas'}
+    else if (budget <= 10){ return 'Panda Express'}
+    else if (budget > 10){return 'We go Peppas'}
 }
 console.log(whatToEat(2));
 
