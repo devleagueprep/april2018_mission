@@ -59,6 +59,11 @@ Console.log your result*/
 
 var favFoods = ['curry ramen', 'carrot cake', 'oreos', 'bacon cheese burger', 'char siu bau'];
 
+function plusOne (arr, str){
+    favFoods.push(str)
+    return arr
+}
+console.log (favFoods);
 
 /*Mission 6:
 Team Member: Harsh
