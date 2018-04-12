@@ -33,7 +33,26 @@ Create a function named doubleUp that takes in a parameter arr and will double t
 Console.log your result.*/
 
 var numArr = [1, 6, 8];
+var newDoubledArr = [];
 
+function doubleUp (arr) {
+    for (var i = 0; i < arr.length; i++) {
+        var double = arr[i];
+        var doubledArr = double * 2;
+        newDoubledArr.push(doubledArr);
+    }
+    return newDoubledArr;
+}
+console.log(doubleUp(numArr));
+
+/*
+function doubleUp (arr) {
+    for (var i = 0; i < arr.length; i++) {
+    }
+    return arr[i]*2;
+}
+console.log(doubleUp(numArr))
+*/
 
 /*Mission 4: 
 Team Member: Erin
