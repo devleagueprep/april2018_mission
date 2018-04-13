@@ -41,14 +41,21 @@ Team Member: Erin
 @param Datatype: Array
 @return Datatype: Array
 
-Create a function named evens that takes in a parameter arr and will sum up only the even indexed numbers in the array and returns a new array.
+Create a function named evens that takes in a parameter arr and will sum up (keep?) only the even indexed numbers in the array and returns a new array.
 Console.log your result.*/
 
 var evenArr = [1,2,3,4,5,6,7,8];
+
 function evens(arr){
-    for (var i = 0; i < evenArr.length; i++)
+    var evenIndexArray = [];
+    for (var i = 0; i < arr.length; i+=2){
+            evenIndexArray.push(arr[i]);
+        }
+
+    return evenIndexArray;
 }
-console.log(evens)
+console.log(evens(evenArr));
+
 
 /*Mission 5:
 Team Member: Cassandra
